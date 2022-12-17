@@ -4,7 +4,9 @@
 
 - team members:
 
-  - Sofya Aksenyuk, 150284; Uladzimir Ivashka, 150281
+  - Sofya Aksenyuk, 150284;
+
+  -   Uladzimir Ivashka, 150281
 
 - selected board game:
 
