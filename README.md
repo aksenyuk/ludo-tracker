@@ -20,6 +20,8 @@
   
       - tracks players' yards => tracks amount of tokens in field
 
+      - (yard bbox with bboxes of each token inside; tracks by coordinate similarity)
+
   - roll a die on the playing field:
     
     - tracks score on a die
@@ -35,4 +37,6 @@
   - enter the home (count score):
   
     - tracks players' homes => counts current score of a player
+
+    - (tracks by token bbox' coordinate similarity with home bbox)
         
