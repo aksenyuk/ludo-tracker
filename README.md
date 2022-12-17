@@ -1,4 +1,4 @@
-# Ludo Board Game Tracker
+# Ludo Board Game Status Tracker
 
 ## Description
 
