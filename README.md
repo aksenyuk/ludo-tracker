@@ -2,16 +2,6 @@
 
 ## Description
 
-- team members:
-
-  - Sofya Aksenyuk, 150284;
-
-  -   Uladzimir Ivashka, 150281
-
-- selected board game:
-
-  - “Ludo” (“Chińczyk” in polish)
-
 - a short description of the game:
 
   - a board game for two to four players, in which the players race their four tokens from start to finish according to the rolls of a single die
