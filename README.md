@@ -1,6 +1,18 @@
 # Ludo Board Game Status Tracker
 
+Co-authored-by: [@giminosk](https://github.com/Giminosk)
+
 ## Description
+
+- team members:
+
+  - Sofya Aksenyuk, 150284
+  
+  - Uladzimir Ivashka, 150281
+
+- selected board game:
+
+  - “Ludo” (“Chińczyk” in polish)
 
 - a short description of the game:
 
