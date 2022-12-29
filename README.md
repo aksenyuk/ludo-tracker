@@ -2,13 +2,13 @@
 
 Co-authored-by: [@giminosk](https://github.com/Giminosk)
 
-### Report: ![Report](https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/REPORT.md)
+![Report](https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/REPORT.md)
 
-### Code: ![Code](https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/tree/main/code)
+![Code](https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/tree/main/code)
 
-### Snippets: ![Snippets](https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/tree/main/snapshots)
+![Snippets](https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/tree/main/snapshots)
 
-### Results: ![Results](https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/tree/main/results)
+![Results](https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/tree/main/results)
 
 ## Description
 
