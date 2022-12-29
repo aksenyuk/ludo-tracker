@@ -130,9 +130,9 @@ Each video is around 30-35 seconds long
 
   - For better tracking:
 
-  - video stabilization (due to camera shaking)
+    - video stabilization (due to camera shaking)
 
-  - frame translation (due to angled view)
+    - frame translation (due to angled view)
 
 ## Intermediate results 
 
