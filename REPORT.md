@@ -1,4 +1,4 @@
-# Report-  Ludo Board Game Status Tracker
+# Report - Ludo Board Game Status Tracker
 
 ## Information from Milestone 1
 
@@ -133,3 +133,45 @@ Each video is around 30-35 seconds long
   - video stabilization (due to camera shaking)
 
   - frame translation (due to angled view)
+
+## Intermediate results 
+
+#### Easy
+
+<div style="display: flex, direction: column">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/easy/easy1.png" width="220">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/easy/easy2.png" width="220">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/easy/easy3.png" width="220">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/easy/easy4.png" width="220">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/easy/easy5.png" width="220">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/easy/easy6.png" width="220">
+</div>
+  
+#### Medium
+
+<div style="display: flex, direction: column">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/medium/medium1.png" width="220">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/medium/medium2.png" width="220">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/medium/medium3.png" width="220">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/medium/medium4.png" width="220">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/medium/medium5.png" width="220">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/medium/medium6.png" width="220">
+</div>
+
+## Difficult
+
+- TODO
+
+# Effectiveness
+
+The used methods work perfectly for easy and medium modes. 
+
+However, trackers stop working, once a token or dice gets covered with hand. 
+
+Detection of game elements also simply does not work, when camera is shaking, even with really nicely stabilized videoframes.
+
+# Conclusions of the obtained results
+
+Even after trying various tracking and detection mechanisms, covered elements as well as camera shaking were not handled anyway.
+
+So that at least in our case the algorithm does **not** difficult mode well. However, the first frames are tracked quite good.
