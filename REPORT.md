@@ -160,7 +160,11 @@ Each video is around 30-35 seconds long
 
 ## Difficult
 
-- TODO
+<div style="display: flex, direction: column">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/difficult/difficult1.png" height="250">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/difficult/difficult2.png" height="250">
+  <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/difficult/difficult3.png" height="250">
+</div>
 
 # Effectiveness
 
