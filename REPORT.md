@@ -189,3 +189,7 @@ Detection of game elements also simply does not work, when camera is shaking, ev
 Even after trying various tracking and detection mechanisms, covered elements as well as camera shaking were not handled anyway. Trackers manage to detect an element that was covered, but not the one that was covered AND dragged.
 
 So that at least in our case the algorithm does **not** difficult mode well. However, the first frames are tracked quite good: distance between opponents gets calculated correctly, dice amount gets detected correctly (when good tracking).
+
+## References
+
+- [Stabilization](https://learnopencv.com/video-stabilization-using-point-feature-matching-in-opencv/)
