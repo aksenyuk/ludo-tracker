@@ -1,5 +1,3 @@
-# Please go to another branch (difficult_update)
-
 # Report - Ludo Board Game Status Tracker
 
 ## Information from Milestone 1
@@ -136,6 +134,14 @@ Each video is around 30-35 seconds long
 
     - frame translation (due to angled view)
 
+  - For board detection when shaking camera:
+
+    - FlannMatcher
+
+    - knnMatcher
+
+    - Homography
+
 ## Intermediate results 
 
 #### Easy
@@ -160,7 +166,7 @@ Each video is around 30-35 seconds long
   <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/medium/medium6.png" width="220">
 </div>
 
-## Difficult
+#### Difficult
 
 <div style="display: flex, direction: column">
   <img src="https://github.com/allsuitablenamesarealreadytaken/ludo-tracker/blob/main/snapshots/difficult/difficult1.png" height="250">
@@ -178,7 +184,7 @@ Detection of game elements also simply does not work, when camera is shaking, ev
 
 # Conclusions of the obtained results
 
-Even after trying various tracking and detection mechanisms, covered elements as well as camera shaking were not handled anyway.
+Even after trying various tracking and detection mechanisms, covered elements as well as camera shaking were not handled anyway. Trackers manage to detect an element that was covered, but not the one that was covered AND dragged.
 
 So that at least in our case the algorithm does **not** difficult mode well. However, the first frames are tracked quite good: distance between opponents gets calculated correctly, dice amount gets detected correctly (when good tracking).
 
