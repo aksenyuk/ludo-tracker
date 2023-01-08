@@ -1,7 +1,3 @@
-# Please, go to another branch (difficult_update)
-
-(We didn't want to merge it to save the initial commit dates)
-
 # Ludo Board Game Status Tracker
 
 Co-authored-by: [@giminosk](https://github.com/Giminosk)
