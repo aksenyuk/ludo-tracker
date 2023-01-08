@@ -1,5 +1,3 @@
-(!) Branch made on 30.12, since we do not know, if the deadline was indeed till the end of the day 30.12.
-
 # Report - Ludo Board Game Status Tracker
 
 ## Information from Milestone 1
