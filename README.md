@@ -30,7 +30,7 @@ Co-authored-by: [@giminosk](https://github.com/Giminosk)
   
       - tracks players' yards => tracks amount of tokens in field
 
-        **Implementation:** yard bbox with bboxes of each token inside; tracks by coordinate similarity
+        ***Implementation:*** yard bbox with bboxes of each token inside; tracks by coordinate similarity
 
   - roll a dice on the playing field:
     
@@ -48,5 +48,5 @@ Co-authored-by: [@giminosk](https://github.com/Giminosk)
   
     - tracks players' homes => counts current score of a player
 
-      **Implementation:** tracks by token bbox' coordinate similarity with home bbox)
+      ***Implementation:*** tracks by token bbox' coordinate similarity with home bbox)
         
