@@ -18,7 +18,7 @@ Co-authored-by: [@giminosk](https://github.com/Giminosk)
 
 - list of in-game items:
 
-  - 16 tokens (4 tokens a player)
+  - 8 tokens (4 tokens a player)
         
   - board
         
